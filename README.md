@@ -8,7 +8,7 @@ ______
 ## Passo 1
 - Baixar o arquivo `.txt` com os links das imagens
 
-- Alterar o nome do arquivo para `cbers.txt'
+- Alterar o nome do arquivo para `cbers.txt`
 
 ## Passo 2
 
@@ -42,11 +42,11 @@ ______
 ## Step 1
 - Download the `.txt` file with the image links
 
-- Change the file name to `cbers.txt '
+- Change the file name to `cbers.txt`
 
 ## Step 2
 
-- Place the `.txt` file in a folder with the name of the region
+- Place the `.txt` file in a folder with the name of the region you're working at.
 
 - Take the opportunity to copy and paste the `.py` file into that same folder
 
@@ -57,7 +57,7 @@ ______
 
 ## Output
 
-- All images  shall be saved in the folder you created in step 2.
+- All images shall be saved in the folder you created in step 2.
 
 ## Required Libraries
 
